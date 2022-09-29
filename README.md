@@ -1,2 +1,2 @@
-# Kevin-powell-inspired-2
- kevin powell inspired website 2
+# Kevin-Powell-inspired-project
+ Training website
